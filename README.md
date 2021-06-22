@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 <!--统计卡片 [![Cindy's GitHub stats](https://github-readme-stats.vercel.app/api?username=cindyway)](https://github.com/cindyway/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cindyway&layout=compact)](https://github.com/cindyway/github-readme-stats)
+[!image](https://github.com/cindyway/cindyway/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210622141125.jpg)
