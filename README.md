@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 
 
 ![image](https://github.com/cindyway/cindyway/raw/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210622141125.jpg)
+![image](https://github.com/cindyway/cindyway/blob/main/5396ee05ly1gsmkt4gf11j20h20h2dk5.jpg)
