@@ -1,7 +1,7 @@
 ### Hi there 👋
-💖I wish me(Cindy) always could find a way to love and understanding positivity
+💖Love and understanding positivity!
 
-😄for coding!
+😄
 
 :blue_book: [CSDN Blog](https://blog.csdn.net/weixin_39448417)
 
